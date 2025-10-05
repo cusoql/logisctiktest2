@@ -1,5 +1,5 @@
 {
-  "name": "my-logistics-site-single",
+  "name": "my-logistics-site-combined",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -8,9 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "framer-motion": "^11.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "framer-motion": "^11.0.0",
     "swiper": "^11.1.3"
   },
   "devDependencies": {
